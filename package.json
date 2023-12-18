@@ -1,0 +1,22 @@
+{
+  "name": "testes_vai_de_promo",
+  "version": "1.0.0",
+  "description": "Aplicação de testes na geração de pedidos na plataforma Vai de promo",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicequeiroz/testes_vai_de_promo.git"
+  },
+  "author": "Alice Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicequeiroz/testes_vai_de_promo/issues"
+  },
+  "homepage": "https://github.com/alicequeiroz/testes_vai_de_promo#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
